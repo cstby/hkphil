@@ -317,6 +317,9 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
+  # type_order: [article, unpublished, incollection, report, writing]
+  type_names: {writing: Public Writing}
+
   query: "@*"
   group_by: type, year
   group_order: descending
