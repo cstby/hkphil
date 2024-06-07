@@ -8,18 +8,19 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: > # appears below profile photo
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m Hannah.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m a philosophy professor at the [University of Arizona](https://philosophy.arizona.edu/person/hannah-kim). I’m also an editor for the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I work on aesthetics (esp. literature and music), metaphysics, and Asian philosophy. My favorite topics are found at their intersections.
+
+I’m also committed to public philosophy. My writings have appeared in [WIRED](https://www.wired.com/story/artificial-intelligence-fiction-philosophy-consciousness/), [LA Times](https://www.latimes.com/opinion/story/2022-02-07/vaccine-conspiracy-theories-fictions-philosophy), [USA Today](https://www.usatoday.com/story/opinion/contributors/2022/06/30/multiverse-marvel-uvalde-roe/9997384002/?gnt-cfr=1), [Public Seminar](https://publicseminar.org/essays/what-a-korean-american-will-find-in-minari/), [The Philosopher](https://www.thephilosopher1923.org/post/life-as-a-non-standard-narrative), and [Aesthetics for Birds](https://aestheticsforbirds.com/2022/08/25/park-jiwon-on-why-crows-arent-black/), among others.
+
+Before joining Arizona, I taught at Macalester College. And before that, I received my PhD in Philosophy and PhD minor in Comparative Literature from Stanford.
