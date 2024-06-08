@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /research/
+title: research
 description: My academic publications and pre-prints are below. I'm happy to share drafts!
 nav: true
 nav_order: 2
