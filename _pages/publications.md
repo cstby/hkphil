@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My academic publications in reverse chronological order.
+description: My academic publications and pre-prints are below. I'm happy to share drafts!
 nav: true
 nav_order: 2
 ---
