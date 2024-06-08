@@ -2,7 +2,7 @@
 layout: page
 title: music
 nav: true
-nav_order: 9
+nav_order: 4
 ---
 
 
