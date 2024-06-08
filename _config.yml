@@ -317,8 +317,8 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  # type_order: [article, unpublished, incollection, report, writing]
-  type_names: {writing: Public Writing}
+  type_order: [unpublished, incollection, report, writing, article, preprint] #reverse order
+  type_names: {writing: Public Writing, preprint: Preprints}
 
   query: "@*"
   group_by: type, year
