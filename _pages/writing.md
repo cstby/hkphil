@@ -2,7 +2,7 @@
 layout: page
 permalink: /writing/
 title: writing
-description: Public writing
+description: In addition to my academic research, I also write and speak for a broader audience. Below is a selected list.
 nav: true
 nav_order: 2
 ---
