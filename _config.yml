@@ -317,8 +317,19 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  type_order: [unpublished, incollection, report, writing, article, preprint] #reverse order
-  type_names: {writing: Public Writing, preprint: Preprints}
+  type_order: [unpublished, incollection, report, interview, personal, culture, writing, article, preprint, pedagogy, religion, time, korean, music, lit, fiction] #reverse order
+  type_names: { writing: Public Philosophy,
+                preprint: Preprints,
+                fiction: Philosophy of Fiction,
+                lit: Philosophy and Literature,
+                music: Philosophy of Music,
+                korean: Korean Philosophy,
+                time: Philosophy of Time,
+                religion: Philosophy of Religion,
+                pedagogy: Pedagogy,
+                culture: Culture & Humanities,
+                personal: Personal,
+                interview: Interviews}
 
   query: "@*"
   group_by: type, year
