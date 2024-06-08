@@ -23,7 +23,7 @@ nav_order: 4
 
 One day, my orchestra was working on a rhythmically challenging piece, and to keep them on track, I became a human metronome on the snare drum. And to keep *me* on track, I had a light-based metronome in front of me, a moving dot traversing from one end of a line to the other signaling each beat.
 
-Then I had this trippy experience where depending on what the orchestra was playing, *the dot’s movement would speed up or slow down!*  The happy coincidence of reading Augustine’s Confessions shortly afterwards (ugh, book XI is so good) got me hooked on philosophy of time.
+Then I had this trippy experience where depending on what the orchestra was playing, *the dot’s movement would speed up or slow down!*  The happy coincidence of reading Augustine’s *Confessions* shortly afterwards (ugh, book XI is so good) got me hooked on philosophy of time.
 
 I dropped my economics major and picked up philosophy… and now I like to say that I do “applied philosophy of time” on the drums!
 
@@ -68,4 +68,4 @@ I performed with my jazz combo* throughout my PhD. We played original music and 
     </div>
 </div>
 
-*Thanks to “Confused Goose and the Rage Guys”  (Diana Rypkema, Quinten Stedman, Sarah Woodward, and Geoff McConohy) for the recordings, permission, and memories.*
+**Thanks to “Confused Goose and the Rage Guys”  (Diana Rypkema, Quinten Stedman, Sarah Woodward, and Geoff McConohy) for the recordings, permission, and memories.*
