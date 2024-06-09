@@ -139,7 +139,7 @@
     {% if entry.journal %}
       {% capture entrytype %}<em>{{entry.journal}}</em>{% endcapture %}
     {% elsif entry.booktitle %}
-      {% capture entrytype %}<em>In {{entry.booktitle}}</em> {% endcapture %}
+      {% assign entrytype = 'In ' | append: entry.booktitle | strip %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{entry.school}}</em> {% endcapture %}
     {% else %}
@@ -155,7 +155,7 @@
       {% capture entrytype %}{{entrytype}}{{ ", " }}{{entry.location}}{% endcapture %}
     {% endif -%}
     {% if entry.additional_info %}
-      {% capture entrytype %}{{entrytype}}{{entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+      {% capture entrytype %}{{entrytype}}{{entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' | strip}}{% endcapture %}
     {% endif %}
     {% capture hook_exists %}{% file_exists _includes/hook/bib.liquid %}{% endcapture %}
     {% if hook_exists == 'true' %}
