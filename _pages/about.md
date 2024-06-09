@@ -26,12 +26,3 @@ I’m also committed to public philosophy. My writings have appeared in [*WIRED*
 Before joining Arizona, I taught at Macalester College. And before that, I received my PhD in Philosophy and PhD minor in Comparative Literature from Stanford.
 
 ---
-
-## recent and upcoming talks
-- “Juche as a Perspective,” East-West Philosophers’ Conference (University of Hawaii), May ‘24
-- “How Fictional Events Can be Past, Present, or Future”, LanCog Summer Metaphysics Workshop (Lisbon), July ‘24
-- “How Fictional Events Can be Past, Present, or Future”, PIKSI-Boston (MIT), July ‘24
-- TBD, Philosophy and Literature panel, World Congress of Philosophy (Rome), August ‘24
-- TBD, International Conference on K-Narratology (Seoul National University), August ‘24
-- TBD, Northern Arizona University (colloquium), Sept ‘24
-- TBD, Danto at 100- What Comes Next? (Columbia), Nov ‘24
