@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TBD, Danto at 100- What Comes Next? (Columbia) 🗽
+TBD, Danto at 100- What Comes Next? (Columbia University) 🗽
