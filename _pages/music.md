@@ -45,7 +45,9 @@ I played the glockenspiel and xylophone for the world premier of Richard Prior�
 
 ---
 
-I performed with my jazz combo* throughout my PhD. We played original music and arranged standards in fun ways (like a Reggae “Misty” and an Afro-Cuban “Belle”!) In Tucson, you might catch me jamming on the weekends at The Century Room in Hotel Congress!
+I performed with my jazz combo* throughout my PhD. We played original music and arranged standards in fun ways (like a Reggae “Misty” and an Afro-Cuban “Belle”!)
+
+In Tucson, you might catch me jamming on the weekends at The Century Room in Hotel Congress!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center" style="height: 100%;">
