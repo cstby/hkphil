@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-“How Fictional Events Can be Past, Present, or Future”, PIKSI-Boston (MIT) 🌃
+“How Fictional Events Can be Past, Present, or Future”, PIKSI-Boston (MIT)

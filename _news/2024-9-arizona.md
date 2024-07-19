@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TBD, Northern Arizona University (colloquium) 🏜️
+TBD, Northern Arizona University (colloquium)

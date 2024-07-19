@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Mark Sanders Workshop in Longform Writing, (NY) 🖊️
+Mark Sanders Workshop in Longform Writing, (NY)

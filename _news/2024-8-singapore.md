@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TBD, National University of Singapore 🇸🇬
+TBD, National University of Singapore
