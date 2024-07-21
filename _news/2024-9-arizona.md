@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TBD, Northern Arizona University (colloquium)
+I'll give a colloquium at Northern Arizona University.

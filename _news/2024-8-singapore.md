@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TBD, National University of Singapore
+I'm participating in Singapore's Centre for Strategic Futures' Foresight Conference-- and giving a talk at the National University of Singapore.
