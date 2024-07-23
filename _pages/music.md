@@ -41,13 +41,11 @@ I played the glockenspiel and xylophone for the world premier of Richard Prior�
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1420086484&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/richard-prior-3" title="Richard Prior 3" target="_blank" style="color: #cccccc; text-decoration: none;">Richard Prior 3</a> · <a href="https://soundcloud.com/richard-prior-3/prior-symphony-no-3-iii-conclusion" title="PRIOR: Symphony No. 3: III. conclusion" target="_blank" style="color: #cccccc; text-decoration: none;">PRIOR: Symphony No. 3: III. conclusion</a></div>
 
-
-
 ---
 
 I performed with my jazz combo* throughout my PhD. We played original music and arranged standards in fun ways (like a Reggae “Misty” and an Afro-Cuban “Belle”!)
 
-In Tucson, you might catch me jamming on the weekends at The Century Room in Hotel Congress!
+In Tucson, you might catch me jamming on the weekends at The Century Room!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center" style="height: 100%;">
