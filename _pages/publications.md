@@ -14,7 +14,7 @@ nav_order: 2
             path="assets/img/field.jpg"
             class="img-fluid rounded z-depth-1"
             max-height="400px"
-            caption= "A field in Furano, Hokkaido. You now what they say-- let a thousand flowers bloom :)"
+            caption= "A field in Furano, Hokkaido. You know what they say-- let a thousand flowers bloom :)"
             %}
     </div>
 </div>
