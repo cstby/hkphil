@@ -11,3 +11,4 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+    user: "1000:1000"
