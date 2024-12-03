@@ -25,4 +25,6 @@ I also freelance and write about philosophy, culture, and the arts for a general
 
 Before joining Arizona, I taught at Macalester College. And before that, I received my PhD in Philosophy and PhD minor in Comparative Literature from Stanford.
 
+[Here is my C.V.](https://drive.google.com/file/d/1gKjYZe7QeDu3PMf3uINm2D6qUH3gmLD6/view)
+
 ---
