@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I’m Hannah.
 
-I’m an [assistant professor](https://philosophy.arizona.edu/person/hannah-kim) at the University of Arizona's philosophy department and a faculty affiliate with the English Department and the [Center for East Asian Studies](https://ceas.arizona.edu/).  I'm also an editor for the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/).
+I’m an [assistant professor](https://philosophy.arizona.edu/person/hannah-kim) at the University of Arizona's philosophy department and a faculty affiliate with the English Department and the [Center for East Asian Studies](https://ceas.arizona.edu/).  I'm also an editor for the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) and the Chair of the American Society for Aesthetics's Diversity Committee.
 
 I work on aesthetics, metaphysics, and Asian philosophy. My favorite topics are found at their intersections (e.g., fictional truth, fictional time, Confucian aesthetics).
 
