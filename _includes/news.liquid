@@ -1,9 +1,17 @@
 <div class="news">
-  {% if site.news != blank %}
-    {% assign news_size = site.news | size %}
+  {% assign current_month = site.time | date: '%Y%m' %}
+  {% assign upcoming_news_size = 0 %}
+  {% for item in site.news %}
+    {% assign item_month = item.date | date: '%Y%m' %}
+    {% if item_month >= current_month %}
+      {% assign upcoming_news_size = upcoming_news_size | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if upcoming_news_size > 0 %}
     <div
       class="table-responsive"
-      {% if include.limit and site.announcements.scrollable and news_size > 3 %}
+      {% if include.limit and site.announcements.scrollable and upcoming_news_size > 3 %}
         style="max-height: 60vw"
       {% endif %}
     >
@@ -12,23 +20,31 @@
         {% if include.limit and site.announcements.limit %}
           {% assign news_limit = site.announcements.limit %}
         {% else %}
-          {% assign news_limit = news_size %}
+          {% assign news_limit = upcoming_news_size %}
         {% endif %}
-        {% for item in news limit: news_limit %}
-          <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b, %Y' }}</th>
-            <td>
-              {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-              {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {% endif %}
-            </td>
-          </tr>
+        {% assign shown_news = 0 %}
+        {% for item in news %}
+          {% assign item_month = item.date | date: '%Y%m' %}
+          {% if item_month >= current_month %}
+            <tr>
+              <th scope="row" style="width: 20%">{{ item.date | date: '%b, %Y' }}</th>
+              <td>
+                {% if item.inline %}
+                  {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                {% else %}
+                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% endif %}
+              </td>
+            </tr>
+            {% assign shown_news = shown_news | plus: 1 %}
+          {% endif %}
+          {% if shown_news >= news_limit %}
+            {% break %}
+          {% endif %}
         {% endfor %}
       </table>
     </div>
   {% else %}
-    <p>No news so far...</p>
+    <p>No upcoming talks so far...</p>
   {% endif %}
 </div>
