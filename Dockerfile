@@ -1,10 +1,11 @@
-FROM ruby:latest
+FROM ruby:3.2-slim
 ENV DEBIAN_FRONTEND noninteractive
 
-Label MAINTAINER Amir Pourmand
+LABEL MAINTAINER="Amir Pourmand"
 
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
     locales \
+    git \
     imagemagick \
     build-essential \
     zlib1g-dev \
@@ -30,7 +31,7 @@ ADD Gemfile /srv/jekyll
 WORKDIR /srv/jekyll
 
 # install jekyll and dependencies
-RUN gem install jekyll bundler
+RUN gem install --no-document bundler -v 2.5.20
 
 RUN bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
